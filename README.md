@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-With 3+ years of experience in Python and Django Rest Framework, I specialize in building robust APIs. I'm passionate about clean, efficient code and eager to learn and collaborate on innovative projects. Let's create something amazing together!
+Experienced in Python and Django Rest Framework, I specialize in building robust APIs. I'm passionate about clean, efficient code and eager to learn and collaborate on innovative projects. Let's create something amazing together!
 
 * 🌍  I'm based in INDIA
 * ✉️  You can contact me at [harishkitti523@gmail.com](mailto:harishkitti523@gmail.com)
